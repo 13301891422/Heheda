@@ -11,9 +11,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="classes-sh-190826" target="1.8" />
-      <module name="flink" target="1.8" />
-      <module name="flink-project" target="1.8" />
+      <module name="classes-sh-190826" target="1.5" />
+      <module name="flink" target="1.5" />
+      <module name="flink-project" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
